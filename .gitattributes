@@ -1,0 +1,3 @@
+*.pot~ export-ignore
+*.po~ export-ignore
+*.log export-ignore
